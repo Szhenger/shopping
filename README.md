@@ -1,2 +1,21 @@
-# shopping
-This is Shopping!
+# Shopping
+
+### Problem to Solve 
+
+TODO
+
+### Background
+
+TODO
+
+### Understanding
+
+TODO
+
+### Specification
+
+TODO
+
+### Credit and Disclaimer
+
+TODO
